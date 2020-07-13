@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["examplemp-front", "build/dist/examplemp/"]
+}

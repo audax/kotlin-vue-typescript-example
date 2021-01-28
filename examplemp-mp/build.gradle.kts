@@ -1,7 +1,7 @@
 @file:Suppress("UNUSED_VARIABLE")
 
 group = "examplemp"
-version = "0.1.0"
+version = "0.1.1"
 
 plugins {
     kotlin("multiplatform")

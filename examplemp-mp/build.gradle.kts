@@ -2,6 +2,7 @@
 
 group = "examplemp"
 version = "0.1.0"
+// Test!
 
 plugins {
     kotlin("multiplatform")

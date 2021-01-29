@@ -10,6 +10,7 @@ The `package.json` creates a yarn workspace to directly include the kotlin-mp mo
 
 A Kotlin multiplatform module with only code in the common source root. The gradle task `jsNpmModule` builds
 an npm module in `$projectRoot/dist/examplemp` with modified typescript headers.
+Ich bin eine Teständerung.
 
 ## examplemp-front
 
